@@ -13,17 +13,20 @@ Cybersecurity:** Exploring network security and vulnerabilities.
 
 Technologies & Tools
 
-Python, Flask, C#, Java, SQL, MySQL, HTML, CSS, Git and GitHub.
+Python, Flask, Java, SQL, MySQL, HTML, CSS, Git and GitHub.
 
 Projects
 
 • HomeGuard: A personal project focused on network scanning and home network security.
+
 • Pet Shop ERP: A web-based management system built with Flask and MySQL.
 
 A Little About Me
 
 • Dog lover and proud dog mom.
+
 • Gaming enthusiast.
+
 • Always curious about technology and how things work behind the scenes.
 
 **Learning, building and evolving — one project at a time.**
