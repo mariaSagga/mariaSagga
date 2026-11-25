@@ -1,6 +1,6 @@
 Hi, I'm Maria!
 
-I'm an aspiring Software Developer passionate about technology, creativity and problem-solving. I enjoy building applications, exploring new technologies and continuously developing my skills.
+I'm Software Developer passionate about technology, creativity and problem-solving. I enjoy building applications, exploring new technologies and continuously developing my skills.
 
 Currently, I'm focusing on Backend Development, Web Development, Manual QA Testing and Cybersecurity while working on personal projects and building my portfolio.
 
